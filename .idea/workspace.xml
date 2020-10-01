@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9ab3983-bf6c-4d38-abd9-925c588e58fe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="-1" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="293" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i9eilOUy9AICuXRAinHLhWePr4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lmcgee8\Documents\GitHub\TechnicalTest\src\main\resources" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.lmcgee.technicaltest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TechnicalTestApplication">
+    <configuration name="TechnicalTestApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lmcgee.technicaltest.TechnicalTestApplication" />
+      <module name="TechnicalTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lmcgee.technicaltest.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in TechnicalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TechnicalTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetUsersControllerTests.testGetUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TechnicalTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lmcgee.technicaltest.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.lmcgee.technicaltest.controller" />
+      <option name="MAIN_CLASS_NAME" value="org.lmcgee.technicaltest.controller.GetUsersControllerTests" />
+      <option name="METHOD_NAME" value="testGetUsers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetUsersServiceImplTests.testConvertJsonMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TechnicalTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lmcgee.technicaltest.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.lmcgee.technicaltest.service" />
+      <option name="MAIN_CLASS_NAME" value="org.lmcgee.technicaltest.service.GetUsersServiceImplTests" />
+      <option name="METHOD_NAME" value="testConvertJsonMessage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetUsersServiceImplTests.testGetUsersCalls" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TechnicalTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lmcgee.technicaltest.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.lmcgee.technicaltest.service" />
+      <option name="MAIN_CLASS_NAME" value="org.lmcgee.technicaltest.service.GetUsersServiceImplTests" />
+      <option name="METHOD_NAME" value="testGetUsersCalls" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TechnicalTestApplication" />
+        <item itemvalue="JUnit.GetUsersControllerTests.testGetUsers" />
+        <item itemvalue="JUnit.All in TechnicalTest" />
+        <item itemvalue="JUnit.GetUsersServiceImplTests.testConvertJsonMessage" />
+        <item itemvalue="JUnit.GetUsersServiceImplTests.testGetUsersCalls" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9ab3983-bf6c-4d38-abd9-925c588e58fe" name="Default Changelist" comment="" />
+      <created>1601324363526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601324363526</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="2376" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1601537576882">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="92" y="92" width="2376" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1601537576882" />
+    <state x="804" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601391875471">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="804" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1601391875471" />
+    <state x="1060" y="274" key="FileChooserDialogImpl" timestamp="1601391538540">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1060" y="274" key="FileChooserDialogImpl/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1601391538540" />
+    <state width="2517" height="270" key="GridCell.Tab.0.bottom" timestamp="1601540743530">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="270" key="GridCell.Tab.0.bottom/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1601540743530" />
+    <state width="2517" height="270" key="GridCell.Tab.0.center" timestamp="1601540743530">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="270" key="GridCell.Tab.0.center/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1601540743530" />
+    <state width="2517" height="270" key="GridCell.Tab.0.left" timestamp="1601540743530">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="270" key="GridCell.Tab.0.left/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1601540743530" />
+    <state width="2517" height="270" key="GridCell.Tab.0.right" timestamp="1601540743530">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="270" key="GridCell.Tab.0.right/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1601540743530" />
+    <state width="2517" height="346" key="GridCell.Tab.1.bottom" timestamp="1601384837550">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="346" key="GridCell.Tab.1.bottom/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1601384837550" />
+    <state width="2517" height="346" key="GridCell.Tab.1.center" timestamp="1601384837550">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="346" key="GridCell.Tab.1.center/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1601384837550" />
+    <state width="2517" height="346" key="GridCell.Tab.1.left" timestamp="1601384837550">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="346" key="GridCell.Tab.1.left/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1601384837550" />
+    <state width="2517" height="346" key="GridCell.Tab.1.right" timestamp="1601384837550">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="346" key="GridCell.Tab.1.right/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1601384837550" />
+    <state x="810" y="174" key="Maven.ArtifactSearchDialog" timestamp="1601327402700">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="810" y="174" key="Maven.ArtifactSearchDialog/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1601327402700" />
+    <state x="781" y="162" key="SettingsEditor" timestamp="1601324721027">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="781" y="162" key="SettingsEditor/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1601324721027" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TechnicalTest$All_in_TechnicalTest.ic" NAME="All in TechnicalTest Coverage Results" MODIFIED="1601539033207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/TechnicalTest$TechnicalTestApplication.ic" NAME="TechnicalTestApplication Coverage Results" MODIFIED="1601537684178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.lmcgee.technicaltest.service.*</FILTER>
+    </SUITE>
+  </component>
+</project>
