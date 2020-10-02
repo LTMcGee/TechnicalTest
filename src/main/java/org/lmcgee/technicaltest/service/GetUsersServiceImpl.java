@@ -41,6 +41,7 @@ public class GetUsersServiceImpl implements GetUsersService {
                              u.getLongitude() >= boundaryMap.get("minLongitude"))
                 .collect(Collectors.toList());
 
+        log.info("Hit endpoint: {} Returning user list size: {}", url, userList.size());
         return this.convertJsonMessage(userList);
     }
 
@@ -57,8 +58,10 @@ public class GetUsersServiceImpl implements GetUsersService {
         Map<String, Double> boundaryMap = new HashMap<>();
         double londonLatitude = 51.5098;
         double londonLongitude = -0.1180;
+        //1.0 degree of latitude = 69 miles
         boundaryMap.put("maxLatitude", (londonLatitude + ((1.0 / 69) * 60)));
         boundaryMap.put("minLatitude", (londonLatitude - ((1.0 / 69) * 60)));
+        //1.0 degree of longitude = 54.6 miles
         boundaryMap.put("maxLongitude", (londonLongitude + ((1.0 / 54.6) * 60)));
         boundaryMap.put("minLongitude", (londonLongitude - ((1.0 / 54.6) * 60)));
 

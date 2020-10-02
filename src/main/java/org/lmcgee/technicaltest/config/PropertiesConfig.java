@@ -11,4 +11,6 @@ import org.springframework.context.annotation.Configuration;
 public class PropertiesConfig {
     @Value("${application.all.users}")
     private String allUsersEndpoint;
+    @Value("${spring.profiles.active}")
+    private String activeProfile;
 }
